@@ -64,3 +64,4 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
+  - Release Notes: release-notes.md    
