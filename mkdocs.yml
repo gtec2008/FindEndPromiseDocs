@@ -1,10 +1,10 @@
 site_name: FindEndPromise Help Center
-site_description: คู่มือการใช้งาน FindEndPromise Auto Update
-site_author: Grand Pest Control
-site_url: https://gtec2008.github.io/autoupdate-help/
+site_description: คู่มือการใช้งาน FindEndPromise
+site_author: Grand Service Center 
+site_url: https://gtec2008.github.io/FindEndPromiseDocs/
 
-repo_url: https://github.com/gtec2008/autoupdate-help
-repo_name: gtec2008/autoupdate-help
+repo_url: https://github.com/gtec2008/FindEndPromiseDocs
+repo_name: gtec2008/FindEndPromiseDocs
 
 use_directory_urls: true
 
