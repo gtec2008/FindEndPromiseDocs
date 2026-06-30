@@ -95,14 +95,46 @@ FindEndPromise-v143.exe
 
 ---
 
+
 ## 📷 Screenshots
 
-> (จะเพิ่มภาพหน้าจอในภายหลัง)
+### Login
 
-- Login
-- Auto Update
-- Progress
-- Help Center
+![Login](images/login-screen.png)
+
+หน้าจอ Login หลังเพิ่มระบบตรวจสอบ Version และปุ่ม Help / What's New
+
+---
+
+### Auto Update
+
+![Auto Update](images/update-dialog.png)
+
+หน้าต่างแจ้งเตือนเมื่อพบ Version ใหม่ พร้อมปุ่ม Update Now
+
+---
+
+### Progress
+
+![Progress](images/update-progress.png)
+
+แสดงเปอร์เซ็นต์ความคืบหน้าระหว่าง Copy ไฟล์
+
+---
+
+### Backup
+
+![Backup](images/backup-version.png)
+
+ระบบสำรองไฟล์เวอร์ชันเดิมก่อน Update
+
+---
+
+### release-note
+
+![release-note](images/release-note.png)
+
+Online Help  คู่มือการใช้งาน / What's new มีอะไรใหม่ใน version ที่กำลังอัพเดทนี้
 
 ---
 
