@@ -38,6 +38,7 @@ nav:
   - หน้าแรก: index.md
   - เริ่มต้นใช้งาน: getting-started.md
   - Auto Update: autoupdate.md
+  - Release Notes: release-notes.md
   - Backup และ Restore: backup-and-restore.md
   - Error Code: error-code.md
   - FAQ: faq.md
